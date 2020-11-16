@@ -1,0 +1,35 @@
+.mainCard{
+    background-color: black;
+    color: #E7c68e;
+    border: 1px solid #E7c68e;
+}
+.contentCard > p{
+     font-size: 18px;
+}
+.contentCard > h5{
+    font-size: 22px;
+}
+.cardBody{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #E7c68e;
+}
+.infoContainer{
+    display: flex;
+    justify-content: space-between;
+}
+.userInfo{
+    display: flex;
+}
+.userName{
+    margin-left: 5px;
+}
+.imgProduct{
+    height: 200px !important;
+}
+
+@media(max-width:600px) and (min-width:300px){
+    .imgProduct{
+        margin-left: 0 !important;
+    }
+}

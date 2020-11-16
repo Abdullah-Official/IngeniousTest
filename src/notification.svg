@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.297" height="34.347" viewBox="0 0 33.297 34.347">
+  <g id="bell_1_" data-name="bell(1)" transform="translate(-31.951 -25.747) rotate(30)">
+    <g id="Group_294" data-name="Group 294" transform="translate(51.493)">
+      <g id="Group_293" data-name="Group 293" transform="translate(0)">
+        <path id="Path_174" data-name="Path 174" d="M175.208,404.514c0,.008,0,.015,0,.023a3.527,3.527,0,1,0,7.053,0c0-.008,0-.015,0-.023Z" transform="translate(-166.81 -377.324)" fill="#e7c68e"/>
+        <path id="Path_175" data-name="Path 175" d="M75.054,22.679l-3.28-4.854V11.77a8.4,8.4,0,0,0-6.718-8.255V1.651a1.639,1.639,0,1,0-3.277,0V3.515a8.4,8.4,0,0,0-6.718,8.255v6.055l-3.28,4.854a1.679,1.679,0,0,0-.095,1.72,1.655,1.655,0,0,0,1.465.889H73.684a1.656,1.656,0,0,0,1.465-.889A1.679,1.679,0,0,0,75.054,22.679Z" transform="translate(-51.493)" fill="#e7c68e"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,57 @@
+.mainSide{
+    border: 1px solid #E7c68e;
+    padding: 30px 10px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    /* height: 80vh; */
+
+}
+.bidBtn{
+    padding: 10px 10px;
+    background-color: #E7c68e;
+    color: black;
+    /* justify-content: center;
+    align-items: center; */
+    /* display: flex;
+  align-items: center;
+  justify-content: center; */
+    width: 100%;
+    border: none;
+    height: 70px;
+}
+.bidBtn:focus{
+    outline: none;
+}
+.sideList{
+    list-style: none;
+    /* justify-content: space-evenly; */
+    display: flex;
+
+}
+.sideList > p{
+    font-size: 19px;
+    padding-left: 14px;
+    word-spacing: 3px;
+}
+.drafLike{
+    display: flex;
+    justify-content: space-between;
+}
+.DLbtn > button{
+    padding: 1px 5px;
+    background-color: #E7c68e;
+    color: black;
+    border: none;
+    width: 40px;
+    font-size: 18px;
+}
+
+@media (max-width:837px) and (min-width:300px){
+    .offsetMob{
+        margin-left: 0px !important;
+    }   
+    .sideList > p{
+        font-size: 16px !important;
+    }
+}

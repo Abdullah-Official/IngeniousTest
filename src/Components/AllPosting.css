@@ -1,0 +1,33 @@
+.headerContentPost{
+    display: flex;
+    /* justify-content: space-around; */
+}
+.headerContentPost > h5{
+    font-size: 23px;
+}
+.mainContainer2{
+    border: 1px solid #E7c68e;
+    height: 100%;
+    padding: 30px 20px;
+}
+.postBtn > button{
+    padding: 1px 5px;
+    background-color: #E7c68e;
+    color: black;
+    border: none !important;
+    width: 40px;
+    font-size: 18px;
+    width: 60px;
+}
+.postBtn{
+    padding-left: 15px;
+}
+.postBtn > button:focus{
+    outline: none;
+}
+.headerPost{
+    border-bottom: 1px solid #E7c68e;
+}
+.headerContentPost{
+    margin-bottom: 20px;
+}
