@@ -9,12 +9,14 @@ function App() {
   return (
     <div className="App">
       <Header/>
-      <BrowserRouter>
+     
       <Switch>
           <Route exact path='/' component={Profile} />
           <Route exact path='/all-posts' component={MainPost} />
       </Switch>
-      </BrowserRouter>
+      
+      
+     
     </div>
   );
 }
