@@ -1,4 +1,5 @@
 import React from 'react'
+import { NavLink } from 'react-router-dom';
 import './SideNav.css'
 function SideNav() {
   const profile = (
@@ -168,9 +169,9 @@ function SideNav() {
               {profile}
               <p>My Profile</p>
             </li>
-            <li className="sideList mb-2">
+            <li className="sideList posting mb-4">
               {posting}
-              <p>My Posting</p>
+              <NavLink to='/all-posts'>My Posting</NavLink>
             </li>
             <li className="sideList mb-2 drafLike">
               <div className="sideList">

@@ -34,6 +34,13 @@
     padding-left: 14px;
     word-spacing: 3px;
 }
+.posting > a{
+    font-size: 19px;
+    padding-left: 14px;
+    word-spacing: 3px;
+    color: #E7c68e;
+    text-decoration: none;
+}
 .drafLike{
     display: flex;
     justify-content: space-between;
