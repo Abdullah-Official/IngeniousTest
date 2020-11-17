@@ -2,7 +2,7 @@ import { Avatar } from '@material-ui/core';
 import React from 'react'
 import './PostCard.css'
 const PostCard = (props) => {
-    const iphone = 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQwAkEHZdn2OLJBnQrZWUv5-uZfb2fpBMEodg&usqp=CAU'
+   
     const heartGold = (
 
         <svg
